@@ -1,0 +1,18 @@
+body{
+    background-color:#000000;
+    color:#A0ECD0;
+    font-family:monospace;
+}
+
+h1{
+    font-size:62px;
+}
+
+p{
+    font-size:32px;
+    width:45%;
+}
+
+.intro{
+    background:linear-gradient(to left, #2C666E, #000000);
+}
